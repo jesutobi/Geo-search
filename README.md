@@ -1,7 +1,7 @@
 ## Geo-search
 Geo-Search is a tool that allows people to search for places and extract information such as
 timezone, map and local weather conditions like temperature, wind speed, humidity, and
-precipitation.
+precipitation.it helps individuals know the particular weather conditon of a state they want to travel to at a particular time
 
 #For local use
 Make sure gulp is installed as a global package, then run **gulp**
